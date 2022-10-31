@@ -1,4 +1,4 @@
-# my-resources
+# My-Resources
 
 <details>
   <summary>Web Security</summary>
