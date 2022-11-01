@@ -13,7 +13,7 @@
 <details>
   <summary>Network</summary>
 
-  1. Network
+  1. Temel Network 0x1 | LAN | DHCP | ARP | MAC
      * [https://www.youtube.com/watch?v=HugffkAwAwU](https://www.youtube.com/watch?v=HugffkAwAwU)
      * [http://mertbingol.online/pdf/temelnetwork%231.pdf](http://mertbingol.online/pdf/temelnetwork%231.pdf)
 
