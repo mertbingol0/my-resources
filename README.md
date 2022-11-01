@@ -11,6 +11,15 @@
 </details>
 
 <details>
+  <summary>Network</summary>
+
+  1. Network
+     * [https://www.youtube.com/watch?v=HugffkAwAwU](https://www.youtube.com/watch?v=HugffkAwAwU)
+     * [http://mertbingol.online/pdf/temelnetwork%231.pdf](http://mertbingol.online/pdf/temelnetwork%231.pdf)
+
+</details>
+
+<details>
   <summary>Python</summary>
 
   1. Print Parameters | print() | sep | end
@@ -42,14 +51,6 @@
      * [https://www.youtube.com/watch?v=Y_5EgVVPlBc&t=13s](https://www.youtube.com/watch?v=Y_5EgVVPlBc&t=13s)
   5. Portswigger OS Command İnjection, Simple Case
      * [https://www.youtube.com/watch?v=an7UVZk6fqI](https://www.youtube.com/watch?v=an7UVZk6fqI)
-</details>
-
-<details>
-  <summary>Network</summary>
-
-  1. Temel Network
-     * [http://mertbingol.online/pdf/temelnetwork%231.pdf](http://mertbingol.online/pdf/temelnetwork%231.pdf)
-
 </details>
 
 <details>
