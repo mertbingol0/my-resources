@@ -17,6 +17,8 @@
      * [https://www.youtube.com/watch?v=HugffkAwAwU](https://www.youtube.com/watch?v=HugffkAwAwU)
      * [http://mertbingol.online/posts/local-area-network-ve-i%C3%A7erisindeki-hususlar.html](http://mertbingol.online/posts/local-area-network-ve-i%C3%A7erisindeki-hususlar.html)
      * [http://mertbingol.online/pdf/temelnetwork%231.pdf](http://mertbingol.online/pdf/temelnetwork%231.pdf)
+  2. Cisco Packet Tracer ile Local Ağ Oluşturmak | Router, Switch ve DHCP Configrasyonlari
+     * [https://www.youtube.com/watch?v=9IS26YmuMn0&t=7s](https://www.youtube.com/watch?v=9IS26YmuMn0&t=7s)
 
 </details>
 
