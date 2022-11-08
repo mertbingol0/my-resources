@@ -62,6 +62,8 @@
      * [https://www.youtube.com/watch?v=Y_5EgVVPlBc&t=13s](https://www.youtube.com/watch?v=Y_5EgVVPlBc&t=13s)
   5. Portswigger OS Command İnjection, Simple Case
      * [https://www.youtube.com/watch?v=an7UVZk6fqI](https://www.youtube.com/watch?v=an7UVZk6fqI)
+  6. HackTheBox - Behind the Scenes
+     * [http://mertbingol.online/posts/HackTheBox-Behind-the-Scenes-CTF-Solutions.html](http://mertbingol.online/posts/HackTheBox-Behind-the-Scenes-CTF-Solutions.html)
 </details>
 
 <details>
