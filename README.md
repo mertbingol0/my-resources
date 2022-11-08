@@ -23,6 +23,14 @@
 </details>
 
 <details>
+  <summary>Computer Science</summary>
+
+  1. Bilgisayarlarin Tarihi ve Felsefesi - Bolum I: Metal Kutu
+     * [http://mertbingol.online/posts/Bilgisayarlarin-Tarihi-ve-Felsefesi-Bolum-I:-Metal-Kutu.html](http://mertbingol.online/posts/Bilgisayarlarin-Tarihi-ve-Felsefesi-Bolum-I:-Metal-Kutu.html)
+
+</details>
+
+<details>
   <summary>Python</summary>
 
   1. Print Parameters | print() | sep | end
