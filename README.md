@@ -31,6 +31,15 @@
 </details>
 
 <details>
+  <summary>Backend</summary>
+
+  1. Flask 0x1 | Localhost Uzerinde Server Deploy Etmek
+     * [https://www.youtube.com/watch?v=GAKlZ2wjb6w](https://www.youtube.com/watch?v=GAKlZ2wjb6w)
+
+
+</details>
+
+<details>
   <summary>Python</summary>
 
   1. Print Parameters | print() | sep | end
