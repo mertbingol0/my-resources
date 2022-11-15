@@ -31,10 +31,14 @@
 </details>
 
 <details>
-  <summary>Backend</summary>
+  <summary>Flask</summary>
 
   1. Flask 0x1 | Localhost Uzerinde Server Deploy Etmek
      * [https://www.youtube.com/watch?v=GAKlZ2wjb6w](https://www.youtube.com/watch?v=GAKlZ2wjb6w)
+     * [https://github.com/mertbingol0/flask-pratice/blob/main/Flask-deploy_server/main.py](https://github.com/mertbingol0/flask-pratice/blob/main/Flask-deploy_server/main.py)
+  2. Flask 0x2 | Flask ile Web Sayfalari Olusturmak
+     * [https://www.youtube.com/watch?v=MreaXRQc61I](https://www.youtube.com/watch?v=MreaXRQc61I)
+     * [https://github.com/mertbingol0/flask-pratice/blob/main/Flask-basic_site-Pages/bsic_site-Pages.py](https://github.com/mertbingol0/flask-pratice/blob/main/Flask-basic_site-Pages/bsic_site-Pages.py)
 
 
 </details>
@@ -81,6 +85,22 @@
   1. Assembly 101 - Registers
      * [http://mertbingol.online/posts/assembly-101-registers.html](http://mertbingol.online/posts/assembly-101-registers.html)
 
+</details>
+ <details>
+ <summary>My-Projects</summary>
+
+  1. xss-scanner
+     * [https://github.com/mertbingol0/xss-scanner](https://github.com/mertbingol0/xss-scanner)
+  2. SysInfo-C
+     * [https://github.com/mertbingol0/SysInfo-C](https://github.com/mertbingol0/SysInfo-C)
+  3. WCI-Controller
+     * [https://github.com/mertbingol0/WCI-Controller](https://github.com/mertbingol0/WCI-Controller)
+  4. flask-pratice
+     * [https://github.com/mertbingol0/flask-pratice](https://github.com/mertbingol0/flask-pratice)
+  5. V-Reader
+     * [https://github.com/mertbingol0/V-Reader](https://github.com/mertbingol0/V-Reader)
+  6. CS-Chat
+     * [https://github.com/mertbingol0/CS-Chat](https://github.com/mertbingol0/CS-Chat)
 </details>
 
 <details>
