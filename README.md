@@ -3,10 +3,7 @@
   <summary>Web Security</summary>
 
   1. Insecure Direct Object References (IDOR) - Zafiyetini Anlamak
-     * [https://www.youtube.com/watch?v=HMrJqwvVN2Q](https://www.youtube.com/watch?v=HMrJqwvVN2Q)
      * [http://mertbingol.online/posts/Insecure-Direct-Object-References-(IDOR).html](http://mertbingol.online/posts/Insecure-Direct-Object-References-(IDOR).html)
-     * [http://mertbingol.online/pdf/Insecure-Direct-Object-References-(IDOR).pdf](http://mertbingol.online/pdf/Insecure-Direct-Object-References-(IDOR).pdf)
-
 
 </details>
 
