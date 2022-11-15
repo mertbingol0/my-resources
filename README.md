@@ -39,6 +39,9 @@
   2. Flask 0x2 | Flask ile Web Sayfalari Olusturmak
      * [https://www.youtube.com/watch?v=MreaXRQc61I](https://www.youtube.com/watch?v=MreaXRQc61I)
      * [https://github.com/mertbingol0/flask-pratice/blob/main/Flask-basic_site-Pages/bsic_site-Pages.py](https://github.com/mertbingol0/flask-pratice/blob/main/Flask-basic_site-Pages/bsic_site-Pages.py)
+  3. Flask 0x3 | Flask ile Dinamik URL Yapisi
+     * [https://www.youtube.com/watch?v=wb3Gq3VfX-U](https://www.youtube.com/watch?v=wb3Gq3VfX-U)
+     * [https://github.com/mertbingol0/flask-pratice/blob/main/Flask-Dynamic_Url-Structure/Dynamic-Url_Structure.py](https://github.com/mertbingol0/flask-pratice/blob/main/Flask-Dynamic_Url-Structure/Dynamic-Url_Structure.py)
 
 
 </details>
