@@ -31,7 +31,9 @@
   3. Flask 0x3 | Flask ile Dinamik URL Yapisi
      * [https://www.youtube.com/watch?v=wb3Gq3VfX-U](https://www.youtube.com/watch?v=wb3Gq3VfX-U)
      * [https://github.com/mertbingol0/flask-pratice/blob/main/Flask-Dynamic_Url-Structure/Dynamic-Url_Structure.py](https://github.com/mertbingol0/flask-pratice/blob/main/Flask-Dynamic_Url-Structure/Dynamic-Url_Structure.py)
-
+  3. Flask 0x4 | Flask ile Olusturulan Sayfalara HTML Dosyasi Return Etmek
+     * [https://www.youtube.com/watch?v=58pSOoJ9Tog](https://www.youtube.com/watch?v=58pSOoJ9Tog)
+     * [https://github.com/mertbingol0/flask-pratice/tree/main/Flask-return_HTML-file-to-pages](https://github.com/mertbingol0/flask-pratice/tree/main/Flask-return_HTML-file-to-pages)
 
 </details>
 
