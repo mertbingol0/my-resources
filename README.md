@@ -20,14 +20,6 @@
 </details>
 
 <details>
-  <summary>Computer Science</summary>
-
-  1. Bilgisayarlarin Tarihi ve Felsefesi - Bolum I: Metal Kutu
-     * [http://mertbingol.online/posts/Bilgisayarlarin-Tarihi-ve-Felsefesi-Bolum-I:-Metal-Kutu.html](http://mertbingol.online/posts/Bilgisayarlarin-Tarihi-ve-Felsefesi-Bolum-I:-Metal-Kutu.html)
-
-</details>
-
-<details>
   <summary>Flask</summary>
 
   1. Flask 0x1 | Localhost Uzerinde Server Deploy Etmek
