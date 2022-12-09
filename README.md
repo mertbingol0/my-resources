@@ -95,6 +95,8 @@
      * [https://github.com/mertbingol0/V-Reader](https://github.com/mertbingol0/V-Reader)
   6. CS-Chat
      * [https://github.com/mertbingol0/CS-Chat](https://github.com/mertbingol0/CS-Chat)
+  7. Takeup
+     * [https://github.com/mertbingol0/Takeup](https://github.com/mertbingol0/Takeup)
 </details>
 
 <details>
