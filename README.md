@@ -78,7 +78,9 @@
 
   1. Assembly 101 - Registers
      * [http://mertbingol.online/posts/assembly-101-registers.html](http://mertbingol.online/posts/assembly-101-registers.html)
-
+  2. Mert ve Beko'nun Assembly Seruveni
+     * [https://www.youtube.com/watch?v=oPfC6kdIr-E&t=2557s](https://www.youtube.com/watch?v=oPfC6kdIr-E&t=2557s)
+     
 </details>
  <details>
  <summary>My-Projects</summary>
