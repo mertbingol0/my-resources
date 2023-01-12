@@ -85,16 +85,6 @@
 
   1. xss-scanner
      * [https://github.com/mertbingol0/xss-scanner](https://github.com/mertbingol0/xss-scanner)
-  2. SysInfo-C
-     * [https://github.com/mertbingol0/SysInfo-C](https://github.com/mertbingol0/SysInfo-C)
-  3. WCI-Controller
-     * [https://github.com/mertbingol0/WCI-Controller](https://github.com/mertbingol0/WCI-Controller)
-  4. flask-pratice
-     * [https://github.com/mertbingol0/flask-pratice](https://github.com/mertbingol0/flask-pratice)
-  5. V-Reader
-     * [https://github.com/mertbingol0/V-Reader](https://github.com/mertbingol0/V-Reader)
-  6. CS-Chat
-     * [https://github.com/mertbingol0/CS-Chat](https://github.com/mertbingol0/CS-Chat)
   
 </details>
 
